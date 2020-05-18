@@ -10,3 +10,5 @@ Template to start electron react webpack project
 `src/server` - contains back-end logic
 
 **front-end changes watcher included by default**
+
+![Image of Application](Application.PNG)
